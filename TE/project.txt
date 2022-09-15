@@ -1,0 +1,2 @@
+Dashboard: http://localhost/Online-Food-Order/
+Admin Login :http://localhost/Online-Food-Order/managerlogin.php

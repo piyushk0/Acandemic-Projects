@@ -1,0 +1,12 @@
+1. Download zip file and Unzip file from your mail.
+2. Put this file inside "c:/xampp/htdocs/" .
+3. Database Configuration
+  Open phpmyadmin
+  Create Database named foodorder.
+  Import database foodorder.sql from the Online-Food-Order folder.
+	Import>choose foodorder.sql file from online-food-order>click GO
+4. Open Your browser put inside "http://localhost/Online-Food-Order/"
+
+Admin Login Details
+Login Id: pkharat	
+Password: qwerty23
