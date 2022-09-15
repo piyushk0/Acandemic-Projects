@@ -1,0 +1,24 @@
+Step 1 - Extract chatbot.zip and you will have the folder named chatbot.
+Step 2 - Open the chatbot folder.
+Step 3 - Here, you need to open a windows terminal or a command prompt. In, order to do that, hold down Shift key and press the right mouse button and in the drop down menu select the powershell option.
+Step 4 - Once the PowerShell or the CMD is open, type "python bot2.py", let it execute.
+Step 5 - After that type "python serve.py", it will execute and show you a localhost address, copy that address and paste it into your browser and you have your chatbot ready.
+
+Important****
+
+In order for the chatbot to run, you need to install some packages previously namely:
+-numpy 
+-pandas
+-flask
+-nltk
+-scikit-learn
+
+TO install these packages, simpy navigate to the chatbot folder where the bot2.py and serve.py files are present, open up the terminal and type in the following commands.
+-pip install numpy
+-pip install pandas
+-pip install flask
+-pip install nltk
+-pip install scikit-learn
+
+IN CASE ANY QUERY DO REACH OUT!
+PEACE!

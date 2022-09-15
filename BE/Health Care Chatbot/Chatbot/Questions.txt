@@ -1,0 +1,12 @@
+Important
+----->>>>---->>>>---->>>>-------
+1 - What is a chatbot?
+2 - What is AI?
+3 - What is Flask?
+4 - What is NLP?
+5 - What is numpy, pandas, scikit, scikitlearn?
+
+Optional
+----->>>>---->>>>---->>>>-------
+6 - What is Machine Learning?
+7 - What is Deep learning?
